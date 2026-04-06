@@ -15,7 +15,7 @@ Technologies:
 AWS VPC, EC2, Internet Gateway, NAT Gateway
 
 Repo:
-https://github.com/YOURNAME/aws-infrastructure-lab
+https://github.com/gratolbert/aws-infrastructure-lab
 
 ---
 
@@ -26,7 +26,7 @@ Technologies:
 Terraform, AWS VPC, EC2
 
 Repo:
-https://github.com/YOURNAME/terraform-aws-infrastructure-lab
+https://github.com/gratolbert/terraform-aws-infrastructure-lab
 
 ---
 
@@ -39,7 +39,7 @@ Technologies:
 Azure Virtual Network, VPN Gateway, Azure VM
 
 Repo:
-https://github.com/YOURNAME/azure-hybrid-infrastructure-lab
+https://github.com/gratolbert/azure-hybrid-infrastructure-lab
 
 ---
 
