@@ -1,8 +1,15 @@
-# Cloud Engineering Portfolio
+# Grant Tolbert
 
-This repository serves as a central index for my cloud infrastructure and DevOps projects.
+Cloud Infrastructure | AWS | Azure | Terraform | Containers
 
-These projects demonstrate hands-on experience designing and deploying infrastructure across both AWS and Azure environments.
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Linux](https://img.shields.io/badge/Linux-System-yellow)
+
+Hands-on cloud engineering portfolio focused on infrastructure design, automation, and containerized workloads.
 
 ---
 
@@ -43,27 +50,71 @@ https://github.com/gratolbert/azure-hybrid-infrastructure-lab
 
 ---
 
-# Skills Demonstrated
+# Containers
 
-Cloud Platforms  
-• Amazon Web Services  
-• Microsoft Azure  
+### Docker Container Lab
 
-Infrastructure as Code  
-• Terraform  
+Demonstrates containerized web applications, Docker networking, and multi-container deployments.
 
-Networking  
-• VPC / Virtual Network Design  
-• Public & Private Subnets  
+Repository:
+https://github.com/gratolbert/docker-container-lab
 
-Compute  
-• EC2  
-• Azure Virtual Machines
+### Docker Compose Microservices Lab
+
+Multi-container application deployment using Docker Compose.
+
+Repository:
+https://github.com/gratolbert/docker-compose-microservices-lab
 
 ---
 
-# Author
+### Kubernetes Deployment Lab
 
-Grant Tolbert  
-Cloud Infrastructure / Cloud Engineering Portfolio
+Deployed a containerized application to a Kubernetes cluster using deployments and services.
 
+Technologies:
+Kubernetes, kubectl, Docker Desktop, NGINX
+
+Repository:
+https://github.com/gratolbert/kubernetes-deployment-lab
+
+---
+
+### CI/CD Kubernetes Lab
+
+Implemented an automated CI pipeline using GitHub Actions that builds a Docker container and deploys a containerized application to Kubernetes.
+
+Technologies  
+GitHub Actions, Docker, Kubernetes, CI/CD Automation
+
+Repository  
+https://github.com/gratolbert/cicd-kubernetes-lab
+
+---
+# Skills
+
+Cloud Platforms
+
+* AWS
+* Azure
+
+Infrastructure as Code
+
+* Terraform
+
+Containers
+
+* Docker
+
+Networking
+
+* VPC Design
+* Virtual Networks
+* Bastion Architecture
+
+---
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=gratolbert)
