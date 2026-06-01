@@ -13,28 +13,98 @@ Cloud Infrastructure | Azure | AWS | Kubernetes | Containers | Terraform | DevOp
 ![Managed Identity](https://img.shields.io/badge/Azure-Managed%20Identity-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success)
 
-Hands-on cloud engineering portfolio focused on infrastructure design, automation, and containerized workloads.
+
+## Professional Summary
+
+Cloud Infrastructure and Platform Engineer specializing in Microsoft Azure, AWS, Kubernetes, Containers, and Infrastructure as Code.
+
+This portfolio showcases hands-on projects demonstrating cloud architecture, containerized application deployment, platform engineering, identity and access management, monitoring, automation, and infrastructure provisioning across Azure and AWS environments.
+
+Core focus areas include:
+
+* Cloud Infrastructure Engineering
+* Platform Engineering
+* Azure & AWS Architecture
+* Container Platforms
+* Kubernetes
+* Infrastructure as Code (Terraform)
+* DevOps & CI/CD
+* Cloud Security & Identity
+* Monitoring & Observability
+
+All projects are built, deployed, documented, and validated in real cloud environments with production-style architecture and security practices.
+
 
 ---
 ## Featured Projects
 
-⭐ Azure AI Platform Engineering Lab
+### Azure AI Platform Engineering Lab
 
-Modern cloud-native Azure platform demonstrating:
+Enterprise-style Azure platform demonstrating:
 
+* Azure Container Apps
+* Azure Cosmos DB
+* Azure Key Vault
+* Managed Identity
+* RBAC
+* Log Analytics
+* Azure Container Registry
+
+Skills:
+Cloud Architecture • Security • Containers • Identity Management • Monitoring
+
+Repository:
+https://github.com/gratolbert/azure-ai-platform-engineering-lab
+
+---
+
+### Azure AI Platform Engineering Lab
+
+Built a modern Azure cloud-native application platform demonstrating container hosting, secure secret management, and enterprise identity integration.
+
+Technologies:
+
+- Azure Container Registry (ACR)
 - Azure Container Apps
-- Managed Identity
-- Key Vault
-- RBAC
-- Log Analytics
+- Azure Managed Identity
+- Azure Key Vault
+- Azure RBAC
+- Azure Log Analytics
+- Azure Monitor
+- Containerized Workloads
 
-⭐ Azure Hybrid Infrastructure Lab
+Key Accomplishments:
 
-Hybrid networking architecture connecting Azure resources with simulated on-premises infrastructure.
+- Deployed containerized applications using Azure Container Apps
+- Implemented Managed Identity authentication
+- Secured application secrets using Azure Key Vault
+- Configured RBAC-based authorization
+- Integrated centralized monitoring and logging
+- Troubleshot and recovered failed Container Apps deployments
 
-⭐ CI/CD Kubernetes Lab
+### Azure Hybrid Infrastructure Lab
 
-Automated container deployment pipeline using GitHub Actions and Kubernetes.
+Designed a hybrid cloud environment integrating Azure networking and simulated on-premises infrastructure.
+
+Skills:
+Azure Networking • Virtual Networks • Hybrid Connectivity • Infrastructure Design
+
+Repository:
+https://github.com/gratolbert/azure-hybrid-infrastructure-lab
+
+---
+
+### CI/CD Kubernetes Lab
+
+Implemented automated application deployment pipelines using GitHub Actions and Kubernetes.
+
+Skills:
+CI/CD • Kubernetes • GitHub Actions • Containers • Automation
+
+Repository:
+https://github.com/gratolbert/cicd-kubernetes-lab
+
+---
 
 # AWS Projects
 
@@ -114,31 +184,41 @@ Repository
 https://github.com/gratolbert/cicd-kubernetes-lab
 
 ---
-### Azure Hybrid Infrastructure Lab
 
-### Azure AI Platform Engineering Lab
 
-Built a modern Azure cloud-native application platform demonstrating container hosting, secure secret management, and enterprise identity integration.
 
-Technologies:
 
-- Azure Container Registry (ACR)
-- Azure Container Apps
-- Azure Managed Identity
-- Azure Key Vault
-- Azure RBAC
-- Azure Log Analytics
-- Azure Monitor
-- Containerized Workloads
 
-Key Accomplishments:
+## Technical Skills Matrix
 
-- Deployed containerized applications using Azure Container Apps
-- Implemented Managed Identity authentication
-- Secured application secrets using Azure Key Vault
-- Configured RBAC-based authorization
-- Integrated centralized monitoring and logging
-- Troubleshot and recovered failed Container Apps deployments
+| Category               | Technologies                             |
+| ---------------------- | ---------------------------------------- |
+| Cloud Platforms        | Microsoft Azure, AWS                     |
+| Containers             | Docker, Azure Container Apps             |
+| Orchestration          | Kubernetes                               |
+| Infrastructure as Code | Terraform                                |
+| CI/CD                  | GitHub Actions                           |
+| Identity & Security    | Managed Identity, RBAC, Key Vault        |
+| Databases              | Azure Cosmos DB                          |
+| Monitoring             | Azure Monitor, Log Analytics             |
+| Networking             | Azure VNets, AWS VPCs, Hybrid Networking |
+| Source Control         | Git, GitHub                              |
+| Operating Systems      | Linux, Windows Server                    |
+
+## Certifications
+
+* CompTIA Cloud+
+* CompTIA Network+
+* CompTIA Security+
+* [Add any Azure certifications here]
+
+## Currently Learning
+
+* Azure AI Services
+* Terraform Enterprise Patterns
+* Kubernetes Production Operations
+* Cloud Platform Engineering
+
 
 Repository:
 
