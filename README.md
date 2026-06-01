@@ -1,6 +1,6 @@
 # Grant Tolbert
 
-Cloud Infrastructure | AWS | Azure | Terraform | Containers
+Cloud Infrastructure | Azure | AWS | Kubernetes | Containers | Terraform | DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
@@ -8,10 +8,33 @@ Cloud Infrastructure | AWS | Azure | Terraform | Containers
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Linux](https://img.shields.io/badge/Linux-System-yellow)
+![Azure Container Apps](https://img.shields.io/badge/Azure-Container%20Apps-blue)
+![Key Vault](https://img.shields.io/badge/Azure-Key%20Vault-blue)
+![Managed Identity](https://img.shields.io/badge/Azure-Managed%20Identity-blue)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success)
 
 Hands-on cloud engineering portfolio focused on infrastructure design, automation, and containerized workloads.
 
 ---
+## Featured Projects
+
+⭐ Azure AI Platform Engineering Lab
+
+Modern cloud-native Azure platform demonstrating:
+
+- Azure Container Apps
+- Managed Identity
+- Key Vault
+- RBAC
+- Log Analytics
+
+⭐ Azure Hybrid Infrastructure Lab
+
+Hybrid networking architecture connecting Azure resources with simulated on-premises infrastructure.
+
+⭐ CI/CD Kubernetes Lab
+
+Automated container deployment pipeline using GitHub Actions and Kubernetes.
 
 # AWS Projects
 
@@ -91,29 +114,101 @@ Repository
 https://github.com/gratolbert/cicd-kubernetes-lab
 
 ---
+### Azure Hybrid Infrastructure Lab
+
+### Azure AI Platform Engineering Lab
+
+Built a modern Azure cloud-native application platform demonstrating container hosting, secure secret management, and enterprise identity integration.
+
+Technologies:
+
+- Azure Container Registry (ACR)
+- Azure Container Apps
+- Azure Managed Identity
+- Azure Key Vault
+- Azure RBAC
+- Azure Log Analytics
+- Azure Monitor
+- Containerized Workloads
+
+Key Accomplishments:
+
+- Deployed containerized applications using Azure Container Apps
+- Implemented Managed Identity authentication
+- Secured application secrets using Azure Key Vault
+- Configured RBAC-based authorization
+- Integrated centralized monitoring and logging
+- Troubleshot and recovered failed Container Apps deployments
+
+Repository:
+
+https://github.com/gratolbert/azure-ai-platform-engineering-lab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Skills
 
 Cloud Platforms
 
-* AWS
-* Azure
+* Microsoft Azure
+* Amazon Web Services (AWS)
+
+Container Platforms
+
+* Azure Container Apps
+* Docker
+* Kubernetes
 
 Infrastructure as Code
 
 * Terraform
 
-Containers
+Identity & Security
 
-* Docker
+* Azure Managed Identity
+* Azure Key Vault
+* Azure RBAC
+
+Monitoring & Observability
+
+* Azure Monitor
+* Log Analytics
 
 Networking
 
-* VPC Design
-* Virtual Networks
+* Azure Virtual Networks
+* AWS VPC
 * Bastion Architecture
+* Hybrid Cloud Networking
 
 ---
+## Key Azure Services Demonstrated
 
+- Azure Container Registry (ACR)
+- Azure Container Apps
+- Azure Managed Identity
+- Azure Key Vault
+- Azure RBAC
+- Azure Log Analytics
+- Azure Monitoring
+- Containerized Workloads
+- Secure Secret Management
 
 
 
