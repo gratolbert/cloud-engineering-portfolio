@@ -36,51 +36,61 @@ All projects are built, deployed, documented, and validated in real cloud enviro
 
 
 ---
-## Featured Projects
+## Featured Architecture Experience
 
-### Azure AI Platform Engineering Lab
+### Azure AI Platform
 
-Enterprise-style Azure platform demonstrating:
+Container Apps → Managed Identity → Key Vault
 
-* Azure Container Apps
-* Azure Cosmos DB
-* Azure Key Vault
-* Managed Identity
-* RBAC
-* Log Analytics
-* Azure Container Registry
+Service Bus → Azure Functions → Cosmos DB
 
-Skills:
-Cloud Architecture • Security • Containers • Identity Management • Monitoring
+Application Insights → Log Analytics
 
-Repository:
-https://github.com/gratolbert/azure-ai-platform-engineering-lab
+Key Skills:
+
+* Cloud-Native Architecture
+* Zero Trust Security
+* Event-Driven Design
+* Serverless Computing
+* Platform Engineering
 
 ---
 
 ### Azure AI Platform Engineering Lab
 
-Built a modern Azure cloud-native application platform demonstrating container hosting, secure secret management, and enterprise identity integration.
+Designed and deployed a production-style cloud-native AI platform on Microsoft Azure using secure, event-driven architecture patterns.
 
-Technologies:
+#### Technologies
 
-- Azure Container Registry (ACR)
-- Azure Container Apps
-- Azure Managed Identity
-- Azure Key Vault
-- Azure RBAC
-- Azure Log Analytics
-- Azure Monitor
-- Containerized Workloads
+* Azure Container Apps
+* Azure Container Registry (ACR)
+* Azure Functions
+* Azure Service Bus
+* Azure Cosmos DB
+* Azure Key Vault
+* Managed Identity
+* Azure RBAC
+* Application Insights
+* Log Analytics
 
-Key Accomplishments:
+#### Key Accomplishments
 
-- Deployed containerized applications using Azure Container Apps
-- Implemented Managed Identity authentication
-- Secured application secrets using Azure Key Vault
-- Configured RBAC-based authorization
-- Integrated centralized monitoring and logging
-- Troubleshot and recovered failed Container Apps deployments
+* Deployed containerized workloads using Azure Container Apps
+* Implemented secretless authentication using Managed Identity
+* Secured application secrets with Azure Key Vault and RBAC
+* Built asynchronous messaging workflows using Azure Service Bus
+* Deployed serverless processing using Azure Functions
+* Implemented centralized monitoring using Application Insights and Log Analytics
+* Integrated Cosmos DB for scalable NoSQL data storage
+* Applied Zero Trust security principles throughout the platform
+
+#### Skills Demonstrated
+
+Cloud Architecture • Platform Engineering • Azure Security • Serverless Computing • Event-Driven Design • Containers • Monitoring • Identity Management
+
+Repository:
+https://github.com/gratolbert/azure-ai-platform-engineering-lab
+
 
 ### Azure Hybrid Infrastructure Lab
 
@@ -185,10 +195,6 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 
 ---
 
-
-
-
-
 ## Technical Skills Matrix
 
 | Category               | Technologies                             |
@@ -204,13 +210,15 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 | Networking             | Azure VNets, AWS VPCs, Hybrid Networking |
 | Source Control         | Git, GitHub                              |
 | Operating Systems      | Linux, Windows Server                    |
+| Messaging              | Azure Service Bus                        |
+| Serverless             | Azure Functions                          |
 
 ## Certifications
 
 * CompTIA Cloud+
 * CompTIA Network+
 * CompTIA Security+
-* [Add any Azure certifications here]
+* Azure Certifications (In Progress)
 
 ## Currently Learning
 
@@ -223,24 +231,6 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 Repository:
 
 https://github.com/gratolbert/azure-ai-platform-engineering-lab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Skills
 
@@ -290,6 +280,15 @@ Networking
 - Containerized Workloads
 - Secure Secret Management
 
+## Portfolio Highlights
 
+* 10+ Azure Services Deployed
+* Multiple Azure Managed Identities Implemented
+* Event-Driven Messaging Architecture
+* Secure Secret Management Using Key Vault
+* Serverless Compute with Azure Functions
+* Cloud-Native Container Deployments
+* Infrastructure as Code Experience (Terraform)
+* CI/CD Automation with GitHub Actions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gratolbert)
