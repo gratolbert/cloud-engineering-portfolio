@@ -40,13 +40,26 @@ All projects are built, deployed, documented, and validated in real cloud enviro
 
 ### Azure AI Platform
 
-Container Apps → Managed Identity → Key Vault
+Azure Container Registry
+            │
+            ▼
+Azure Container Apps (FastAPI)
+            │
+            ▼
+Azure OpenAI
 
-Service Bus → Azure Functions → Azure OpenAI
+Azure Service Bus
+            │
+            ▼
+Azure Functions
+            │
+            ▼
+Azure Cosmos DB
 
-Azure Functions → Cosmos DB
-
-Application Insights → Log Analytics
+Application Insights
+            │
+            ▼
+Log Analytics
 
 Key Skills:
 
@@ -60,9 +73,10 @@ Key Skills:
 
 ### Azure AI Platform Engineering Lab
 
-Designed and deployed a production-style cloud-native AI platform on Microsoft Azure using secure, event-driven architecture patterns.
+Designed and deployed a production-style AI Platform on Microsoft Azure integrating Azure OpenAI, FastAPI, Azure Functions, Azure Container Apps, Azure Container Registry, Azure Service Bus, Azure Cosmos DB, Azure Key Vault, Managed Identity, and Azure Monitoring.
 
-The platform integrates Azure OpenAI, Azure Functions, Azure Service Bus, Azure Cosmos DB, Azure Key Vault, Managed Identity, Azure Container Apps, and Azure Container Registry to demonstrate modern AI Platform Engineering practices. The solution follows cloud-native security principles, event-driven architecture patterns, and production-style deployment workflows commonly used in enterprise environments.
+The platform demonstrates modern AI Platform Engineering practices including secure AI service integration, containerized microservices, event-driven processing, managed identity authentication, cloud-native deployment patterns, and production-style observability.
+
 
 
 #### Technologies
@@ -81,6 +95,8 @@ The platform integrates Azure OpenAI, Azure Functions, Azure Service Bus, Azure 
 * Azure AI Foundry
 * Docker
 * Azure CLI
+* FastAPI
+* Pydantic
 
 #### Key Accomplishments
 
@@ -98,6 +114,11 @@ The platform integrates Azure OpenAI, Azure Functions, Azure Service Bus, Azure 
 * Published container images to Azure Container Registry
 * Implemented Azure Container Apps image deployment workflow
 * Diagnosed and remediated container deployment issues using Azure revision diagnostics
+* Developed a FastAPI-based AI microservice
+* Containerized and deployed a production REST API to Azure Container Apps
+* Integrated Azure OpenAI into containerized workloads
+* Implemented AI-powered ticket summarization through public REST endpoints
+* Published and versioned container images using Azure Container Registry
 
 #### Skills Demonstrated
 
@@ -227,9 +248,10 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 | Operating Systems      | Linux, Windows Server                    |
 | Messaging              | Azure Service Bus                        |
 | Serverless             | Azure Functions                          |
-| AI / ML                | Azure OpenAI, Azure AI Foundry           |
+| AI / ML                | Azure OpenAI, Azure AI Foundry, FastAPI  |
 | Container Registry     | Azure Container Registry                 |
 | DevOps Tooling         | Azure CLI, Azure Functions Core Tools    |
+| API Development        | FastAPI, REST APIs                       |
 
 
 ## Certifications
@@ -302,12 +324,13 @@ Networking
 
 ## Portfolio Highlights
 
-* 12+ Azure Services Deployed
-* Azure OpenAI Integration
+* * 12+ Azure Services Deployed
+* Azure OpenAI Platform Integration
+* FastAPI AI Microservices
 * Containerized AI Workloads
+* Azure Container Apps Production Deployments
 * Managed Identity Authentication
 * Event-Driven AI Processing
-* Azure Functions AI Automation
 * Cloud-Native Security Architecture
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gratolbert)
