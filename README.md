@@ -16,7 +16,7 @@ Cloud Infrastructure | Azure | AWS | Kubernetes | Containers | Terraform | DevOp
 
 ## Professional Summary
 
-Cloud Infrastructure and Platform Engineer specializing in Microsoft Azure, AWS, Kubernetes, Containers, and Infrastructure as Code.
+Cloud Infrastructure and Platform Engineer specializing in Microsoft Azure, AWS, Kubernetes, Containers, AI Platform Engineering, and Infrastructure as Code.
 
 This portfolio showcases hands-on projects demonstrating cloud architecture, containerized application deployment, platform engineering, identity and access management, monitoring, automation, and infrastructure provisioning across Azure and AWS environments.
 
@@ -42,7 +42,9 @@ All projects are built, deployed, documented, and validated in real cloud enviro
 
 Container Apps → Managed Identity → Key Vault
 
-Service Bus → Azure Functions → Cosmos DB
+Service Bus → Azure Functions → Azure OpenAI
+
+Azure Functions → Cosmos DB
 
 Application Insights → Log Analytics
 
@@ -60,6 +62,9 @@ Key Skills:
 
 Designed and deployed a production-style cloud-native AI platform on Microsoft Azure using secure, event-driven architecture patterns.
 
+The platform integrates Azure OpenAI, Azure Functions, Azure Service Bus, Azure Cosmos DB, Azure Key Vault, Managed Identity, Azure Container Apps, and Azure Container Registry to demonstrate modern AI Platform Engineering practices. The solution follows cloud-native security principles, event-driven architecture patterns, and production-style deployment workflows commonly used in enterprise environments.
+
+
 #### Technologies
 
 * Azure Container Apps
@@ -72,6 +77,10 @@ Designed and deployed a production-style cloud-native AI platform on Microsoft A
 * Azure RBAC
 * Application Insights
 * Log Analytics
+* Azure OpenAI
+* Azure AI Foundry
+* Docker
+* Azure CLI
 
 #### Key Accomplishments
 
@@ -83,6 +92,12 @@ Designed and deployed a production-style cloud-native AI platform on Microsoft A
 * Implemented centralized monitoring using Application Insights and Log Analytics
 * Integrated Cosmos DB for scalable NoSQL data storage
 * Applied Zero Trust security principles throughout the platform
+* Integrated Azure OpenAI GPT-4.1-mini into Azure Functions
+* Built AI-powered ticket summarization services
+* Containerized Azure OpenAI workloads using Docker
+* Published container images to Azure Container Registry
+* Implemented Azure Container Apps image deployment workflow
+* Diagnosed and remediated container deployment issues using Azure revision diagnostics
 
 #### Skills Demonstrated
 
@@ -212,6 +227,10 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 | Operating Systems      | Linux, Windows Server                    |
 | Messaging              | Azure Service Bus                        |
 | Serverless             | Azure Functions                          |
+| AI / ML                | Azure OpenAI, Azure AI Foundry           |
+| Container Registry     | Azure Container Registry                 |
+| DevOps Tooling         | Azure CLI, Azure Functions Core Tools    |
+
 
 ## Certifications
 
@@ -222,10 +241,11 @@ https://github.com/gratolbert/cicd-kubernetes-lab
 
 ## Currently Learning
 
-* Azure AI Services
+* AI Platform Engineering
+* Azure OpenAI Advanced Integrations
 * Terraform Enterprise Patterns
 * Kubernetes Production Operations
-* Cloud Platform Engineering
+* GitHub Actions CI/CD Automation
 
 
 Repository:
@@ -282,13 +302,12 @@ Networking
 
 ## Portfolio Highlights
 
-* 10+ Azure Services Deployed
-* Multiple Azure Managed Identities Implemented
-* Event-Driven Messaging Architecture
-* Secure Secret Management Using Key Vault
-* Serverless Compute with Azure Functions
-* Cloud-Native Container Deployments
-* Infrastructure as Code Experience (Terraform)
-* CI/CD Automation with GitHub Actions
+* 12+ Azure Services Deployed
+* Azure OpenAI Integration
+* Containerized AI Workloads
+* Managed Identity Authentication
+* Event-Driven AI Processing
+* Azure Functions AI Automation
+* Cloud-Native Security Architecture
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gratolbert)
